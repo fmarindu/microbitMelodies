@@ -20,6 +20,13 @@ Is a small project for create molodies for microbit with python
         "D5:4", # Re'
     ]
 
+music.play(tune, microbit.pin0, False, False)
+    This function:
+    tune: music to play
+    microbit.pin0: Output pin for the music
+    wait: Block the main thread
+    loop: Enable the loop of the music
+
 # ES/
 Repositorio de melodías para microbit con python
 Es un pequeño proyecto para crear molodies para microbit con python
@@ -40,3 +47,10 @@ Es un pequeño proyecto para crear molodies para microbit con python
         "C5:4", # Do'
         "D5:4", # Re'
     ]
+    
+music.play(tune, microbit.pin0, False, False)
+    This function:
+    tune: music to play
+    microbit.pin0: Output pin for the music
+    wait: Block the main thread
+    loop: Enable the loop of the music
