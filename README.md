@@ -49,8 +49,8 @@ Es un pequeño proyecto para crear molodies para microbit con python
     ]
     
 music.play(tune, microbit.pin0, False, False)
-    This function:
-    tune: music to play
-    microbit.pin0: Output pin for the music
-    wait: Block the main thread
-    loop: Enable the loop of the music
+    Esta función:
+    tune: música para tocar
+    microbit.pin0: Pin de salida para la música
+    espera: bloquea el hilo principal
+    repetir: activa el loop de la música
