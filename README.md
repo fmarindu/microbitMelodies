@@ -3,10 +3,10 @@ Repository of melodies for microbit with python
 
 Is a small project for create molodies for microbit with python
 
-"AB:C" Where
-    A: Represent the musical note
-    B: Represent the level (2: Low, 4: Middle, 8: High) 
-    C: Represent the duration (2: Low, 4: Middle, 8: High)
+"AB:C" Where<br>
+    A: Represent the musical note<br>
+    B: Represent the level (2: Low, 4: Middle, 8: High)<br>
+    C: Represent the duration (2: Low, 4: Middle, 8: High)<br>
     
     notes = [
         "C4:4", # Do
@@ -31,10 +31,10 @@ music.play(tune, microbit.pin0, False, False)
 Repositorio de melodías para microbit con python
 Es un pequeño proyecto para crear molodies para microbit con python
 
-"AB:C" Dónde
-    A: Representa la nota musical
-    B: Representa el nivel (2: Low, 4: Middle, 8: High) 
-    C: Representa la duración (2: Low, 4: Middle, 8: High)
+"AB:C" Dónde<br>
+    A: Representa la nota musical<br>
+    B: Representa el nivel (2: Low, 4: Middle, 8: High)<br>
+    C: Representa la duración (2: Low, 4: Middle, 8: High)<br>
     
     notes = [
         "C4:4", # Do
