@@ -1,6 +1,9 @@
 # microbitMelodies
 Repository of melodies for microbit with python
 
+Donations:  btc: 1JK4cmjh8j8ScHWsS7Su3k2QC7muBBzXvG
+            nano: nano_1iyxmxzoaj89rg7iki3ennsn898dxipxj86frfrxnmod8dqgqa93m5n5bih3
+
 Is a small project for create molodies for microbit with python
 
 "AB:C" Where<br>
